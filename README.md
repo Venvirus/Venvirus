@@ -1,34 +1,26 @@
-👨‍💻 Venvirus | Cybersecurity Researcher
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Ethical+Hacker;OSINT+Investigator;Python+Security+Developer;Always+Learning+New+Exploits&center=true&width=500&height=45">
+<!-- CYBERPUNK BANNER --><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=VENVIRUS;CYBERSECURITY+RESEARCHER;ETHICAL+HACKER;OSINT+INVESTIGATOR;SECURITY+AUTOMATION+ENGINEER;WELCOME+TO+MY+DIGITAL+LAB&center=true&width=650&height=60&color=00FF00">
 </p><p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-Offensive%20Security-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Ethical-Hacker-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=Venvirus&color=brightgreen&style=for-the-badge">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700">
 </p>---
 
-🧠 About Me
+👨‍💻 Venvirus
 
-Security enthusiast focused on:
+🛡️ Cybersecurity Researcher
+⚔️ Ethical Hacker
+🕵️ OSINT Investigator
+⚙️ Security Tool Developer
 
-- 🔍 Penetration Testing
-- 🕵️ OSINT Investigation
-- 🌐 Web Security
-- ⚙️ Security Automation
 
-I build tools that help identify vulnerabilities and improve digital security.
-
----
-
-⚔️ Cybersecurity Skills
+☣️ Cyber Arsenal
 
 💻 Programming
 
 "Python" (https://img.shields.io/badge/Python-black?logo=python)
 "JavaScript" (https://img.shields.io/badge/JavaScript-black?logo=javascript)
 "C++" (https://img.shields.io/badge/C++-black?logo=cplusplus)
+"Bash" (https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+
 
 🔎 Security Tools
 
@@ -38,81 +30,32 @@ I build tools that help identify vulnerabilities and improve digital security.
 "Burp Suite" (https://img.shields.io/badge/Burp%20Suite-grey)
 "OWASP ZAP" (https://img.shields.io/badge/OWASP%20ZAP-grey)
 "Hashcat" (https://img.shields.io/badge/Hashcat-grey)
+"John the Ripper" (https://img.shields.io/badge/John%20The%20Ripper-grey)
 
----
 
-🛠 Cybersecurity Toolkit
+🧰 Cybersecurity Toolkit
 
 Tool| Purpose| Link
-Nmap| Network scanning| https://nmap.org
+Nmap| Network discovery & scanning| https://nmap.org
 Wireshark| Packet analysis| https://wireshark.org
 Metasploit| Exploitation framework| https://metasploit.com
 Burp Suite| Web penetration testing| https://portswigger.net/burp
-OWASP ZAP| Web vulnerability scanning| https://owasp.org/www-project-zap
+OWASP ZAP| Web vulnerability scanner| https://owasp.org/www-project-zap
 Hashcat| Password cracking| https://hashcat.net
-John The Ripper| Password auditing| https://openwall.com/john
+John the Ripper| Password auditing| https://openwall.com/John
 
----
 
-🕵️ OSINT Toolkit
+🕵️ OSINT Arsenal
 
 Tool| Purpose
 Sherlock| Find social media accounts
-theHarvester| Email & domain reconnaissance
+theHarvester| Email & domain intelligence
 SpiderFoot| OSINT automation
-Maltego| Intelligence gathering
+Maltego| Intelligence analysis
+Amass| Subdomain enumeration
 
----
 
-🚀 Featured Projects
-
-🔐 PhishFinder
-
-Detect and analyze phishing websites.
-
-Features:
-
-- URL analysis
-- Domain intelligence
-- Suspicious redirect detection
-
-Repository
-https://github.com/Venvirus/PhishFinder
-
----
-
-📚 AwesomeSec
-
-A curated cybersecurity resource list.
-
-Includes:
-
-- Penetration testing tools
-- OSINT resources
-- Security research materials
-
-Repository
-https://github.com/Venvirus/AwesomeSec
-
----
-
-📊 GitHub Statistics
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Venvirus&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venvirus&layout=compact&theme=radical"></p>---
-
-🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Venvirus&theme=matrix">
-</p>---
-
-🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</p>---
-
-🧪 Security Practice Platforms
+🧪 Hacker Training Grounds
 
 Platform| Link
 TryHackMe| https://tryhackme.com
@@ -121,19 +64,76 @@ PortSwigger Labs| https://portswigger.net/web-security
 PicoCTF| https://picoctf.org
 Root-Me| https://root-me.org
 
----
 
-📡 Connect
+🚀 Projects
+
+🔐 PhishFinder
+
+Tool designed to detect phishing websites.
+
+Features:
+
+- URL pattern analysis
+- Domain intelligence
+- Suspicious redirect detection
+
+https://github.com/Venvirus/PhishFinder
+
+
+📚 AwesomeSec
+
+A curated cybersecurity resource list.
+
+Includes:
+
+- OSINT tools
+- Penetration testing frameworks
+- Security research materials
+
+https://github.com/Venvirus/AwesomeSec
+
+
+📊 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Venvirus&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venvirus&layout=compact&theme=radical"></p>---
+
+🏆 Hacker Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Venvirus&theme=matrix">
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+☠️ Cyber Threat Map
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ashishps1/awesome-readme-activity-graph/main/assets/graph.svg">
+</p>
+
+👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Venvirus&color=00ff00&style=for-the-badge">
+</p>
+
+📡 Connect With Me
 
 GitHub
 https://github.com/Venvirus
 
----
 
 ⚠️ Disclaimer
 
-All tools and projects are created for educational and ethical cybersecurity purposes only.
+All tools and projects here are for educational and ethical cybersecurity research only.
 
----
 
-«"Security is not a product, but a process." – Bruce Schneier»
+<p align="center">"Security is not a product, but a process."
+
+— Bruce Schneier
+
+</p>
