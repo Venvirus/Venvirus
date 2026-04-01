@@ -32,7 +32,7 @@ Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,cpp,bash,linux"/>
-</p>---
+</p>
 
 🧰 Cybersecurity Toolkit
 
@@ -178,7 +178,7 @@ https://github.com/Venvirus/AwesomeSec
 
 <p align="center">
 <img src="https://img.shields.io/badge/Security%20Research-Field%20Experience-0066ff?style=for-the-badge"/>
-</p>---
+</p>
 
 🏫 Organizations Tested
 
