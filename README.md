@@ -1,44 +1,25 @@
-# Welcome to Venvirus
+# Welcome to My Cybersecurity Profile!
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Venvirus/Venvirus?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Venvirus/Venvirus?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/Venvirus/Venvirus)
+![Security Badge](https://img.shields.io/badge/security-expert-brightgreen)
+![Developer Badge](https://img.shields.io/badge/developer-nerd-lightblue)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Skill Breakdown](#skill-breakdown)
-- [GitHub Stats](#github-stats)
-- [Contributing](#contributing)
+## 👾 Fun Animations
 
-## Introduction
-Welcome to the **Venvirus** repository! This project focuses on cybersecurity techniques and tools that will enhance your skills and knowledge in protecting systems and networks.
+![Cybersecurity Animation](https://media.giphy.com/media/5iZGtnYkFphY20r9Am/giphy.gif)
 
-## Features
-- Cutting-edge techniques and strategies
-- User-friendly interface
-- Community-driven development
+## Skills Breakdown
 
-![Animation](https://media.giphy.com/media/phJXxZ4tJj1g0j221Q/giphy.gif)
-
-## Skill Breakdown
-| Skill              | Level     |
-|-------------------|-----------|
-| Penetration Testing| Expert    |
-| Network Security    | Intermediate |
-| Risk Assessment     | Beginner  |
+- **Languages:** Python, JavaScript, C++
+- **Tools:** Wireshark, Metasploit, Nmap
+- **Certifications:** CEH, CompTIA Security+
 
 ## GitHub Stats
-![Venvirus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venvirus&show_icons=true&theme=radical)
 
-## Contributing
-If you want to contribute to this project, please fork the repository and create a pull request.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venvirus&show_icons=true&theme=radical)
 
-## License
-This project is licensed under the MIT License.
+## Project Showcases
 
----
-Made with ❤️ by the community!
+- **[AwesomeSec](https://github.com/Venvirus/AwesomeSec)** - A curated list of cybersecurity resources.
+- **[PhishFinder](https://github.com/Venvirus/PhishFinder)** - A tool for identifying phishing sites.
 
-## Stay Safe Online!
-Remember to always be aware of your digital footprint and protect your information.
+*Feel free to connect with me on GitHub!*
