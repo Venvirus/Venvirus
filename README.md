@@ -148,13 +148,92 @@ https://github.com/Venvirus/AwesomeSec
 
 🧪 Hacker Training Grounds
 
-Platform
-TryHackMe
-HackTheBox
-PicoCTF
-PortSwigger Web Security Labs
-Root-Me
+<p align="center">
+<img src="https://img.shields.io/badge/Cyber%20Range-Labs%20%26%20CTFs-00ff99?style=for-the-badge"/>
+</p><p align="center">
+<img src="https://img.shields.io/badge/Practice-Hacking%20Labs-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mode-CTF%20Challenges-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Web%20Security-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Network%20Security-green?style=flat-square"/>
+</p>---
 
+🌐 Cyber Ranges
+
+<p><img src="https://img.shields.io/badge/TryHackMe-Hands--On%20Labs-red"/>
+<img src="https://img.shields.io/badge/HackTheBox-Pentesting%20Labs-green"/>
+<img src="https://img.shields.io/badge/PicoCTF-Capture%20The%20Flag-blue"/>
+<img src="https://img.shields.io/badge/Root--Me-Hacking%20Challenges-orange"/>
+<img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Labs-purple"/></p>---
+
+🎯 Skills Practiced
+
+- Web exploitation
+- Network penetration testing
+- OSINT investigations
+- Privilege escalation
+- Vulnerability discovery
+
+---
+
+🛡 Security Testing Experience
+
+<p align="center">
+<img src="https://img.shields.io/badge/Security%20Research-Field%20Experience-0066ff?style=for-the-badge"/>
+</p>---
+
+🏫 Organizations Tested
+
+🏫 Mubarak Complex College
+
+<p>
+<img src="https://img.shields.io/badge/Security%20Assessment-Web%20Testing-green"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Testing-System%20Analysis-blue"/>
+</p>Activities included:
+
+- vulnerability assessment
+- web security testing
+- security recommendations
+
+
+🎓 Free Online Madrasa
+
+<p>
+<img src="https://img.shields.io/badge/Penetration%20Testing-Web%20Security-red"/>
+<img src="https://img.shields.io/badge/Threat%20Analysis-System%20Review-black"/>
+</p>Security testing performed on:
+
+- authentication systems
+- website vulnerabilities
+- configuration security
+
+
+💻 NiffaTech
+
+<p>
+<img src="https://img.shields.io/badge/Security%20Testing-Digital%20Systems-orange"/>
+<img src="https://img.shields.io/badge/Risk%20Assessment-Cyber%20Security-blue"/>
+</p>Work included:
+
+- vulnerability scanning
+- system risk assessment
+- attack surface analysis
+
+
+🌍 AfriTongues
+
+<p>
+<img src="https://img.shields.io/badge/Web%20Security-Vulnerability%20Testing-purple"/>
+<img src="https://img.shields.io/badge/Cyber%20Audit-Security%20Review-green"/>
+</p>Security review focused on:
+
+- website security posture
+- possible exploit points
+- defensive improvements
+
+
+⚠ Ethical Notice
+
+All testing was performed with permission and strictly for improving system security.
 
 💬 Cyber Quote
 
