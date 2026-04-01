@@ -155,7 +155,7 @@ https://github.com/Venvirus/AwesomeSec
 <img src="https://img.shields.io/badge/Mode-CTF%20Challenges-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/Focus-Web%20Security-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Focus-Network%20Security-green?style=flat-square"/>
-</p>---
+</p>
 
 🌐 Cyber Ranges
 
@@ -163,7 +163,7 @@ https://github.com/Venvirus/AwesomeSec
 <img src="https://img.shields.io/badge/HackTheBox-Pentesting%20Labs-green"/>
 <img src="https://img.shields.io/badge/PicoCTF-Capture%20The%20Flag-blue"/>
 <img src="https://img.shields.io/badge/Root--Me-Hacking%20Challenges-orange"/>
-<img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Labs-purple"/></p>---
+<img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Labs-purple"/></p>
 
 🎯 Skills Practiced
 
@@ -173,7 +173,6 @@ https://github.com/Venvirus/AwesomeSec
 - Privilege escalation
 - Vulnerability discovery
 
----
 
 🛡 Security Testing Experience
 
