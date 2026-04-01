@@ -1,6 +1,8 @@
-<!-- CYBER HEADER --><p align="center">
+<!-- HEADER --><p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=220&section=header&text=VENVIRUS&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p><p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Researcher;Ethical+Hacker;OSINT+Investigator;Security+Tool+Developer;Welcome+to+my+Cyber+Lab"/></p>
+</p><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Researcher;Ethical+Hacker;OSINT+Investigator;Security+Tool+Developer;Welcome+to+my+Cyber+Lab"/>
+</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Cybersecurity-Offensive%20Security-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ethical-Hacker-brightgreen?style=for-the-badge"/>
@@ -28,51 +30,83 @@ Focused on:
 
 Programming Languages
 
-<p><img src="https://skillicons.dev/icons?i=python,js,cpp,bash,linux"/></p>
-
-Security Tools
-
-<p><img src="https://img.shields.io/badge/Nmap-black?logo=nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-black?logo=wireshark"/>
-<img src="https://img.shields.io/badge/Metasploit-black"/>
-<img src="https://img.shields.io/badge/BurpSuite-black"/>
-<img src="https://img.shields.io/badge/OWASP-ZAP-black"/>
-<img src="https://img.shields.io/badge/Hashcat-black"/></p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,bash,linux"/>
+</p>---
 
 🧰 Cybersecurity Toolkit
 
-Tool| Purpose
-Nmap| Network scanning
-Wireshark| Packet analysis
-Metasploit| Exploitation framework
-Burp Suite| Web penetration testing
-OWASP ZAP| Vulnerability scanning
-Hashcat| Password cracking
+<p align="center">
+<img src="https://img.shields.io/badge/Cyber%20Arsenal-Tools%20I%20Use-00ff99?style=for-the-badge"/>
+</p>
 
+🌐 Network Reconnaissance
 
-🕵️ OSINT Arsenal
+<p>
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanner-black?logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Masscan-Port%20Scanner-darkred"/>
+<img src="https://img.shields.io/badge/Amass-Subdomain%20Enum-black"/>
+</p>
 
-Tool| Function
-Sherlock| Find social accounts
-theHarvester| Email intelligence
-SpiderFoot| OSINT automation
-Maltego| Relationship mapping
+🕸 Web Security Testing
 
+<p>
+<img src="https://img.shields.io/badge/BurpSuite-Web%20Testing-orange"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-Vulnerability%20Scanner-blue"/>
+<img src="https://img.shields.io/badge/Nikto-Web%20Scanner-darkgreen"/>
+</p>
 
-🚀 Projects
+🔐 Password Cracking
+
+<p>
+<img src="https://img.shields.io/badge/Hashcat-GPU%20Cracker-purple"/>
+<img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Audit-red"/>
+</p>
+
+📡 Network Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analyzer-blue"/>
+<img src="https://img.shields.io/badge/Tcpdump-Traffic%20Analyzer-darkblue"/>
+</p>
+
+⚔️ Exploitation Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-black"/>
+<img src="https://img.shields.io/badge/Searchsploit-Exploit%20Database-darkred"/>
+</p>
+
+🕵️ OSINT Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Sherlock-Social%20Recon-darkgreen"/>
+<img src="https://img.shields.io/badge/theHarvester-Email%20Intel-darkblue"/>
+<img src="https://img.shields.io/badge/SpiderFoot-OSINT%20Automation-purple"/>
+<img src="https://img.shields.io/badge/Maltego-Relationship%20Mapping-orange"/>
+</p>
+
+🧪 Lab Environments
+
+<p>
+<img src="https://img.shields.io/badge/Kali%20Linux-Pentesting%20OS-blue"/>
+<img src="https://img.shields.io/badge/Parrot%20Security-Security%20OS-green"/>
+<img src="https://img.shields.io/badge/Docker-Lab%20Containers-2496ED?logo=docker&logoColor=white"/>
+</p>
+
+🚀 Featured Projects
 
 🔐 PhishFinder
 
 Phishing detection and analysis tool.
 
-Features
+Features:
 
 - URL pattern analysis
 - Domain intelligence
 - Redirect detection
 
 Repository
-
 https://github.com/Venvirus/PhishFinder
 
 
@@ -80,14 +114,13 @@ https://github.com/Venvirus/PhishFinder
 
 Curated cybersecurity resources.
 
-Includes
+Includes:
 
-- Penetration testing tools
+- penetration testing tools
 - OSINT resources
-- Security research
+- security research materials
 
 Repository
-
 https://github.com/Venvirus/AwesomeSec
 
 
@@ -97,15 +130,21 @@ https://github.com/Venvirus/AwesomeSec
 
 🏆 Achievements
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Venvirus&theme=matrix"/></p>
-
-🐍 Contribution Snake
-
-<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/></p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Venvirus&theme=matrix"/>
+</p>
 
 📈 Activity Graph
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Venvirus&theme=tokyo-night"/></p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venvirus&theme=tokyo-night"/>
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 🧪 Hacker Training Grounds
 
@@ -113,7 +152,7 @@ Platform
 TryHackMe
 HackTheBox
 PicoCTF
-PortSwigger Labs
+PortSwigger Web Security Labs
 Root-Me
 
 
@@ -125,4 +164,6 @@ Security is a process.
 — Bruce Schneier
 
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=footer"/></p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=footer"/>
+</p>
